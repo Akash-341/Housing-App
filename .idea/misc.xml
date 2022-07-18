@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/circle.xml" value="0.169" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/color_cursor.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/curved_shape.xml" value="0.18" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_filter_alt_24.xml" value="0.18" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_house_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_location_city_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.185" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/rounded_corner.xml" value="0.18" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/rounded_edge.xml" value="0.18" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/drawable/rounded_textview.xml" value="0.169" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/font/amaranth.xml" value="0.3046875" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/font/font.xml" value="0.3046875" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/font/lobster.xml" value="0.30364583333333334" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout-v28/activity_licensor_residential.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_all_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_buyer_commercial.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_buyer_residential.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_buyer_residential_commercial.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_buyer_residential_entries.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensee_commercial.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensee_commercial_entries.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensee_residential.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensor_commercial.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensor_commercial_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensor_residential.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_licensor_residential_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_residential_licensee_entries.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_seller_commercial.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_seller_commercial_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_seller_residential.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/activity_seller_residential_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/add_dialog.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/buyer_commercial_entries.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/commercail_menu_image.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/content_navigation_drawer.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/filter_dialog.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/fragment_buyer_commercial_recycler.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/fragment_recent_entries.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/fragment_slideshow.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/licensee_commercial_entries.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/licensor_commercial_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/licensor_residential_entries.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/list_group.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/list_item.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/recent_entries.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/residential_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/seller_commercial_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/seller_residential_entries.xml" value="0.2545289855072464" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/layout/version.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/activity_main_drawer.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/edit_menu.xml" value="0.27025641025641023" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/filter_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/menu_white.xml" value="0.548828125" />
+        <entry key="..\:/Users/A/AndroidStudioProjects/RealEstate/app/src/main/res/menu/navigation_drawer.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

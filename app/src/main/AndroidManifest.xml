@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.realestate">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:usesCleartextTraffic="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RealEstate"
+        tools:targetApi="31">
+        <activity
+            android:name=".Activity.AllEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SellerResidentialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SellerCommercialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.LicensorResidentialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.LicensorCommercialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.LicenseeResidentialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.LicenseeCommercialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.BuyerResidentialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.BuyerCommercialEntries"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Buyer_commercial"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Seller_commercial"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Licensee_Commercial"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Licensor_commercial"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Buyer_residential"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Seller_residential"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.Licensee_Residential"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.Licensor_residential"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

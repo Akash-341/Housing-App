@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">RealEstate</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="past_month">Past Month</string>
+    <string name="commercial">Commercial</string>
+    <string name="residential">Residential</string>
+    <string name="date">Date:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flat_no">Flat no:</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="type">Type:</string>
+    <string name="area_sq_ft">Area :</string>
+    <string name="price">Price:</string>
+    <string name="mob_no_1">Mob no 1:</string>
+    <string name="mob_no_2">Mob no 2:</string>
+    <string name="name">Name:</string>
+    <string name="building_name">Building :</string>
+    <string name="location">Location:</string>
+    <string name="remarks">Remarks:</string>
+
+
+
+    <string name="version">Version:1.0.6</string>
+    <string name="save">Save</string>
+    <string name="Seller">Seller</string>
+    <string name="Buyer">Buyer</string>
+    <string name="Licensee">Licensee</string>
+    <string name="Licensor">Licensor</string>
+    <string name="dashboard">Dashboard</string>
+
+
+    <string name="residential_licensor">Residential: Licensor</string>
+    <string name="residential_licensee">Residential: Licensee</string>
+    <string name="residential_seller">Residential: Seller</string>
+    <string name="residential_buyer">Residential: Buyer</string>
+    <string name="commercial_licensor">Commercial: Licensor</string>
+    <string name="commercial_licensee">Commercial: Licensee</string>
+    <string name="commercial_seller">Commercial: Seller</string>
+    <string name="commercial_buyer">Commercial: Buyer</string>
+
+
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">LogOut</string>
+    <string name="allentries">AllEntries</string>
+
+
+</resources>

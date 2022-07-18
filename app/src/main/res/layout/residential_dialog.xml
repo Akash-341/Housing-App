@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/residential"
+            android:textColor="@color/black"
+            android:layout_weight="0.70"
+            android:textSize="18sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:fontFamily="@font/amaranth"
+            android:textStyle="bold"
+            android:focusableInTouchMode="false"
+            android:clickable="false"
+            android:layout_gravity="center"
+            android:focusable="false"
+
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:paddingEnd="5dp"
+            android:paddingTop="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/imgclose"
+            android:src="@drawable/close"
+            />
+    </LinearLayout>
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        app:dividerColor="@color/gray"
+
+        />
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/dialoglicensor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Licensor"
+            android:textAllCaps="false"
+            app:layout_constraintHorizontal_bias="0.049"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:fontFamily="@font/amaranth"
+            app:layout_constraintEnd_toEndOf="@+id/tv_we_have_received"
+            app:layout_constraintTop_toBottomOf="@+id/tv_we_have_received" />
+
+        <TextView
+            android:id="@+id/dialogLicensee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Licensee"
+            android:textAllCaps="false"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:fontFamily="@font/amaranth"
+            app:layout_constraintEnd_toEndOf="@id/dialoglicensor"
+            app:layout_constraintHorizontal_bias="0.049"
+            app:layout_constraintStart_toStartOf="@id/dialoglicensor"
+            app:layout_constraintTop_toBottomOf="@id/dialoglicensor" />
+
+        <TextView
+            android:id="@+id/dialogSeller"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Seller"
+            android:textAllCaps="false"
+            android:textColor="@color/purple_700"
+            android:textSize="18sp"
+            android:fontFamily="@font/amaranth"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.049"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dialogLicensee" />
+
+        <TextView
+            android:id="@+id/dialogBuyer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Buyer"
+            android:textColor="@color/purple_700"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            android:fontFamily="@font/amaranth"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.049"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/dialogSeller"
+            app:layout_constraintVertical_bias="0.0" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
